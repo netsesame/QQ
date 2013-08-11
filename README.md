@@ -1,5 +1,4 @@
-QQ
-==
+
 import web.rest.client;
 import string.html;
  
